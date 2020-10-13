@@ -1,0 +1,35 @@
+h1{
+    position: absolute;
+    color: rgb(48,48,48);
+    font-size: 150%;
+    font-weight: bold;
+    line-height: 3em;
+    top: 4.2em;
+    left: -4em;
+    margin: 0;
+    padding: 1em;
+    transform: rotate(-90deg);
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+
+header {
+    background: #f15a30;
+    width: 100%;
+    height: 27em;
+}
+
+html, body {
+    font-family: "ff-meta-web-pro", sans-serif;
+    text-rendering: optimizeLegibility;
+    font-size: 100%;
+    line-height: 26px;
+    background: #f6efe5;
+    background-size: 60%;
+    color: #0d2c40;
+}
+
+.containertop{
+    margin-left: 5rem;
+    margin-top: 25px;
+}

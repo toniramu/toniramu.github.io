@@ -1,0 +1,111 @@
+html {
+scroll-behavior: smooth;
+}
+
+img{
+	width: 100%;
+	height: auto;
+}
+
+h3{
+	background-color: rgb(48,48,48);
+	color: white;
+	padding: 10px
+}
+h4{
+	color: black;
+  padding: 10px;
+text-align: center;
+}
+p{
+	font-family: calibri;
+}
+
+/*Tables Design*/
+	table.tablelayout {
+		font-size: 16px;
+		border: 1px solid #CCC; 
+		font-family: Calibri, Helvetica, sans-serif;
+	} 
+	.tablelayout td {
+		padding: 4px;
+		margin: 3px;
+		border: 1px solid #CCC;
+	}
+	.tablelayout th {
+		background-color: green; 
+		color: #FFF;
+		font-weight: bold;
+	}
+
+/*.content{
+  float: left;
+}
+.maincontent{
+  float:left;
+}
+*/
+
+/*
+.row{
+display: flex;
+}
+*/
+
+@media print {
+	.donotbreak
+		{page-break-inside: avoid;}
+	}
+  
+.column{
+flex: 50%;
+}
+
+img.NA{
+max-width: 200px;
+}
+
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
+
+
+.imgsize{
+  max-width:80%;
+  cursor: pointer;
+}
+
+.whatif{
+padding: 10px;
+background-color: lightyellow;
+}
+
+/*ID Content*/
+#CARTONREQUIREMENTS {
+border: auto;
+background-color: rgb(102, 205, 170);
+}
+
+#CARTONLABEL {
+border:auto;
+background-color: lightblue;
+}
+
+#TAPECARTONSEALING {
+border:auto;
+background-color: orange;
+}
+
+#INDPOLYBAGREQUIREMENTS {
+  border: auto;
+  background-color: rgb(135, 206, 235);
+}
+
+#MASPOLYBAGREQUIREMENTS {
+  border: auto;
+  background-color: rgb(221, 160, 221);
+}
