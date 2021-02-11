@@ -1,14 +1,27 @@
 {
     "short_name": "Packing",
     "name": "OJG Packing Guide",
+    "display": "minimal-ui",
+    "scope":"/",
+    "start_url": "/Packing Guide/index.html",
     "icons": [
       {
-        "src": "packing guide icon.png",
+        "src": "/content/icon/packing guide icon-192x192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "packing guide icon.png",
+        "src": "/content/icon/packing guide icon-256x256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "/content/icon/packing guide icon-384x384.png",
+        "type": "image/png",
+        "sizes": "384x384"
+      },
+      {
+        "src": "/content/icon/packing guide icon-512x512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
