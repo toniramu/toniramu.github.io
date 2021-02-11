@@ -3,7 +3,7 @@
     "name": "OJG Packing Guide",
     "display": "minimal-ui",
     "scope":"/",
-    "start_url": "/Packing Guide/index.html",
+    "start_url": "/",
     "icons": [
       {
         "src": "/content/icon/packing guide icon-192x192.png",
