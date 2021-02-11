@@ -1,0 +1,17 @@
+{
+    "short_name": "Packing",
+    "name": "OJG Packing Guide",
+    "icons": [
+      {
+        "src": "packing guide icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "packing guide icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+
+}
