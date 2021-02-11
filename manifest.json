@@ -6,22 +6,22 @@
     "start_url": "/",
     "icons": [
       {
-        "src": "/content/icon/packing guide icon-192x192.png",
+        "src": "/assets/icon/packing guide icon-192x192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/content/icon/packing guide icon-256x256.png",
+        "src": "/assets/icon/packing guide icon-256x256.png",
         "type": "image/png",
         "sizes": "256x256"
       },
       {
-        "src": "/content/icon/packing guide icon-384x384.png",
+        "src": "/assets/icon/packing guide icon-384x384.png",
         "type": "image/png",
         "sizes": "384x384"
       },
       {
-        "src": "/content/icon/packing guide icon-512x512.png",
+        "src": "/assets/icon/packing guide icon-512x512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
