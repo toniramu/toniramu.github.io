@@ -1,6 +1,6 @@
 {
-    "short_name": "Packing",
-    "name": "OJG Packing Guide",
+    "short_name": "playground",
+    "name": "tonylam's playground",
     "display": "minimal-ui",
     "scope":"/",
     "start_url": "/",
